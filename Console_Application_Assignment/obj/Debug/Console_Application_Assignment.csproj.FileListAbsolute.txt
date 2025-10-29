@@ -1,0 +1,7 @@
+C:\Users\irwin\OneDrive\Basic_C#_Programs\Console_Application_Assignment\obj\Debug\Console_Application_Assignment.csproj.AssemblyReference.cache
+C:\Users\irwin\OneDrive\Basic_C#_Programs\Console_Application_Assignment\obj\Debug\Console_Application_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\irwin\OneDrive\Basic_C#_Programs\Console_Application_Assignment\bin\Debug\Console_Application_Assignment.exe.config
+C:\Users\irwin\OneDrive\Basic_C#_Programs\Console_Application_Assignment\bin\Debug\Console_Application_Assignment.exe
+C:\Users\irwin\OneDrive\Basic_C#_Programs\Console_Application_Assignment\bin\Debug\Console_Application_Assignment.pdb
+C:\Users\irwin\OneDrive\Basic_C#_Programs\Console_Application_Assignment\obj\Debug\Console_Application_Assignment.exe
+C:\Users\irwin\OneDrive\Basic_C#_Programs\Console_Application_Assignment\obj\Debug\Console_Application_Assignment.pdb

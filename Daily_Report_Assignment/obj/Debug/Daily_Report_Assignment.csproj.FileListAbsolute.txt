@@ -1,0 +1,8 @@
+C:\Users\irwin\OneDrive\Basic_C#_Programs\Daily_Report_Assignment\bin\Debug\Daily_Report_Assignment.exe.config
+C:\Users\irwin\OneDrive\Basic_C#_Programs\Daily_Report_Assignment\bin\Debug\Daily_Report_Assignment.exe
+C:\Users\irwin\OneDrive\Basic_C#_Programs\Daily_Report_Assignment\bin\Debug\Daily_Report_Assignment.pdb
+C:\Users\irwin\OneDrive\Basic_C#_Programs\Daily_Report_Assignment\obj\Debug\Daily_Report_Assignment.csproj.AssemblyReference.cache
+C:\Users\irwin\OneDrive\Basic_C#_Programs\Daily_Report_Assignment\obj\Debug\Daily_Report_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\irwin\OneDrive\Basic_C#_Programs\Daily_Report_Assignment\obj\Debug\Daily_Report_Assignment.exe
+C:\Users\irwin\OneDrive\Basic_C#_Programs\Daily_Report_Assignment\obj\Debug\Daily_Report_Assignment.pdb
+C:\Users\irwin\OneDrive\Basic_C#_Programs\Daily_Report_Assignment\obj\Debug\Daily_Report_Assignment.exe.config

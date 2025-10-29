@@ -1,0 +1,7 @@
+C:\Users\irwin\OneDrive\Basic_C#_Programs\Car_Insurance\obj\Debug\Car_Insurance.csproj.AssemblyReference.cache
+C:\Users\irwin\OneDrive\Basic_C#_Programs\Car_Insurance\obj\Debug\Car_Insurance.csproj.CoreCompileInputs.cache
+C:\Users\irwin\OneDrive\Basic_C#_Programs\Car_Insurance\bin\Debug\Car_Insurance.exe.config
+C:\Users\irwin\OneDrive\Basic_C#_Programs\Car_Insurance\bin\Debug\Car_Insurance.exe
+C:\Users\irwin\OneDrive\Basic_C#_Programs\Car_Insurance\bin\Debug\Car_Insurance.pdb
+C:\Users\irwin\OneDrive\Basic_C#_Programs\Car_Insurance\obj\Debug\Car_Insurance.exe
+C:\Users\irwin\OneDrive\Basic_C#_Programs\Car_Insurance\obj\Debug\Car_Insurance.pdb
